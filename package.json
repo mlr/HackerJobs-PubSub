@@ -1,0 +1,19 @@
+{
+  "name": "HackerJobs-PubSub",
+  "version": "0.0.1",
+  "description": "Node.js Pub / Sub for HackerJobs, scrapes all the jobs, and publishes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scotthasbrouck/HackerJobs-PubSub.git"
+  },
+  "author": "Scott Hasbrouck",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/scotthasbrouck/HackerJobs-PubSub/issues"
+  },
+  "homepage": "https://github.com/scotthasbrouck/HackerJobs-PubSub"
+}
